@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle slot-bonus-new-member-100-tanpa-to",
+        "command": "slot-bonus-new-member-100-tanpa-to:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "slot-bonus-new-member-100-tanpa-to",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "slot-bonus-new-member-100-tanpa-to:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
