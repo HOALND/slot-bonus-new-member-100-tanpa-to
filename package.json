@@ -1,10 +1,14 @@
 {
   "name": "slot-bonus-new-member-100-tanpa-to",
   "main": "./lib/slot-bonus-new-member-100-tanpa-to",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": " slot bonus 100 di depan to kecil, slot bonus 500 di depan, bonus 200% di depan to kecil, slot welcome bonus 100 di depan",
   "keywords": [
-    "slot bonus new member","bonus new member 100","link bonus new member","bonus new member slot","bonus new member tanpa to"
+    "slot bonus new member",
+    "bonus new member 100",
+    "link bonus new member",
+    "bonus new member slot",
+    "bonus new member tanpa to"
   ],
   "activationCommands": {
     "atom-workspace": "slot-bonus-new-member-100-tanpa-to:toggle"
@@ -14,6 +18,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
